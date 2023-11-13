@@ -1,0 +1,36 @@
+/* Resetear los márgenes y rellenos predeterminados */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo del cuerpo de la página */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+  }
+  
+  /* Estilo de los párrafos */
+  p {
+    margin-bottom: 15px;
+  }
+  
+  /* Estilo del encabezado h1 */
+  h1 {
+    color: #4285f4; /* Puedes cambiar este color según tus preferencias */
+  }
+  
+  /* Estilo del enlace */
+  a {
+    color: #4285f4; /* Color de enlace predeterminado de Google */
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  a:hover {
+    color: #1a73e8; /* Cambia el color al pasar el ratón sobre el enlace */
+  }
+  
