@@ -33,4 +33,8 @@ body, h1, p {
   a:hover {
     color: #1a73e8; /* Cambia el color al pasar el ratón sobre el enlace */
   }
+
+  .oculto{
+    display: none;
+  }
   
